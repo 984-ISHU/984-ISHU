@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @984-ISHU (ISHAAN M C)
-- 👀 I’m interested in ...Machine Learning
-- 🌱 I’m currently learning ...Pandas
+- 👀 I’m interested in ...Machine Learning 
 - 📫 How to reach me ...LinkedIn
 
 <!---
