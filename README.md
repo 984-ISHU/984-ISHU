@@ -8,4 +8,4 @@
 You can click the Preview link to take a look at your changes.
 --->
 ### Preferred Languages
-<img src="https://skillicons.dev/icons?i=python,c,java" />
+<img src="https://skillicons.dev/icons?i=python,c,r" />
